@@ -1,18 +1,18 @@
-# action-log
+# action log
 Laravel 5 操作日志自动记录
 
 
 ## Installation
 
 The ActionLog Service Provider can be installed via [Composer](http://getcomposer.org) by requiring the
-`gaocheng/action-log` package and setting the `minimum-stability` to `dev` (required for Laravel 5) in your
+`gaocheng/actionlog` package and setting the `minimum-stability` to `dev` (required for Laravel 5) in your
 project's `composer.json`.
 
 ```json
 {
     "require": {
        
-        "gaocheng/action-log": "~1.0"
+        "gaocheng/actionlog": "~1.0"
     },
    
 }
@@ -22,7 +22,7 @@ or
 
 Require this package with composer:
 ```
-composer require gaocheng/action-log 
+composer require gaocheng/actionlog 
 ```
 
 Update your packages with ```composer update``` or install with ```composer install```.
