@@ -1,0 +1,23 @@
+{
+  "name": "gaocheng/action-log",
+  "description": "A laravel package of ActionLog",
+  "keywords": ["laravel","ActionLog"],
+
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "gaocheng",
+      "email": "igaocheng@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "gaocheng\\ActionLog\\": "src/"
+    }
+  }
+ 
+}
